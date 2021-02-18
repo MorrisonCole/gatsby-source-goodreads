@@ -1,30 +1,37 @@
 {
-	"name": "@jamesdanylik/gatsby-source-goodreads",
-	"version": "0.1.0",
-	"description": "A GatsbyJS source plugin for building websites using GoodReads",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"author": "James Danylik <james.danylik@gmail.com>",
-	"license": "MIT",
-	"dependencies": {
-		"node-fetch": "2.6.1",
-		"query-string": "6.14.0",
-		"xml2js": "0.4.23"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/jamesdanylik/gatsby-source-goodreads.git"
-	},
-	"bugs": {
-		"url": "https://github.com/jamesdanylik/gatsby-source-goodreads/issues"
-	},
-	"homepage": "https://github.com/jamesdanylik/gatsby-source-goodreads#readme",
-	"keywords": [
-		"gatsby",
-		"gatsby-plugin",
-		"gatsby-source-plugin",
-		"goodreads"
-	]
+  "name": "@morrisoncole/gatsby-source-goodreads",
+  "version": "0.1.1",
+  "description": "A GatsbyJS source plugin for building websites using Goodreads",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Morrison Cole",
+    "email": "admin@morrisoncole.co.uk",
+    "url": "https://morrisoncole.co.uk/"
+  },
+  "contributors": [
+    "James Danylik <james.danylik@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "2.6.1",
+    "query-string": "6.14.0",
+    "xml2js": "0.4.23"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/morrisoncole/gatsby-source-goodreads.git"
+  },
+  "bugs": {
+    "url": "https://github.com/morrisoncole/gatsby-source-goodreads/issues"
+  },
+  "homepage": "https://github.com/morrisoncole/gatsby-source-goodreads#readme",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-source-plugin",
+    "goodreads"
+  ]
 }
