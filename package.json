@@ -20,9 +20,7 @@
 	"bugs": {
 		"url": "https://github.com/jamesdanylik/gatsby-source-goodreads/issues"
 	},
-	"homepage": {
-		"url": "https://github.com/jamesdanylik/gatsby-source-goodreads#readme"
-	},
+	"homepage": "https://github.com/jamesdanylik/gatsby-source-goodreads#readme",
 	"keywords": [
 		"gatsby",
 		"gatsby-plugin",
